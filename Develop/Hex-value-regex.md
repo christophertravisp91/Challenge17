@@ -24,7 +24,7 @@ Hex values have to satisfy certain conditions, they must start with an '#' symbo
 
 ### Anchors
 
-
+Stuff
 
 ### Quantifiers
 
